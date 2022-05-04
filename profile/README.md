@@ -1,7 +1,7 @@
 # dBio
 
 ## About
-`dBio` is a decentralized application (dApp) empowering patients to take control of their healthcare data. The project was initially developed at Harvard University by master's program students in the Software Engineering program.
+`dBio` is a decentralized application (dApp) empowering patients to take control of their healthcare data. The project was initially developed at Harvard University by students in the Software Engineering master's program.
 
 ## System Components
 * [dbio-demo](https://github.com/HES-Capstone-dBio/dbio-demo) -- A full system representation in `docker-compose` format. Start here to get a feeling for what this dApp does!
